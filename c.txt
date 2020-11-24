@@ -1,1 +1,1 @@
-local master
+合并c.txt的冲突已解决
